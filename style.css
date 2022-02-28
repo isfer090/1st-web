@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    font-family: 'Staatliches', cursive;
+}
+.full{
+text-align: center;
+width: 1024px;
+margin: 0 auto;
+}
+.heading{
+color: white;
+background-color: #2ecc71;
+}
+img{
+height: 590px;
+width: 1050px;
+max-width: 100%;
+}
+.paragraph{
+background-color: #2980b9;
+margin-top: -5px;
+}
+.heading2{
+background-color: #34495e;
+}
+.op{
+    padding: 10px;
+}
+.opx{
+    padding: 15px;
+
+}
+.foot{
+    background-color: #2c3e50;
+    padding:6px 0 4px 0;
+    text-decoration: none;
+}
+.foottext{
+    color: black;
+    text-decoration: none;
+
+}
